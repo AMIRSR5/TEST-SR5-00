@@ -1,0 +1,14 @@
+{
+  "name": "امیرحسین سرافراز | AMIR_SR5",
+  "short_name": "SR5",
+  "description": "Full-Stack Developer Portfolio — AMIRHOOSEINSARAFRAZ.IR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#C9A84C",
+  "icons": [
+    {"src": "sr5-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "sr5-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
